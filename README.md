@@ -1,1 +1,1 @@
-Seçilen tercihler doğrultusunda kullanıcıya rastgele bir şifre oluşturur.
+Python kodlarını içeren bir depodur.

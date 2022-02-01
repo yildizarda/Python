@@ -16,7 +16,6 @@ def ekok(sayi1,sayi2):
 
         elif ( sayi1 % i == 0 and sayi2 % i !=0):
             ekok *=i
-
             sayi1 //=i
 
         elif (sayi1 % i != 0 and sayi2 % i == 0 ):
